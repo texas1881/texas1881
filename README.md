@@ -1,6 +1,6 @@
 ## Profile
 
-I am a 16-year-old student based in Turkey with a strong interest in technology and software development.
+I am a 17-year-old student based in Turkey with a strong interest in technology and software development.
 
 I improve myself by exploring how systems work, testing ideas in practice, and learning through hands-on experience. Rather than limiting myself to a single field, I actively work across different areas of technology and remain open to learning new tools, concepts, and approaches.
 
