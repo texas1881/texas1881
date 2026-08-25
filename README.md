@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,50:1e3a8a,100:2563eb&height=190&section=header&text=Lumi%C3%A8re&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=AI%20%C2%B7%20Web%20%C2%B7%20Cybersecurity&descSize=18&descAlignY=60&animation=fadeIn" alt="Lumière" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,50:1e3a8a,100:2563eb&height=190&section=header&text=Lumi%C3%A8re&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=AI%20%C2%B7%20Web%20%C2%B7%20Cybersecurity&descSize=18&descAlignY=60&animation=fadeIn" alt="TEXAS" />
 
 **Building at the intersection of AI, web engineering, and security — from Türkiye.**
 
